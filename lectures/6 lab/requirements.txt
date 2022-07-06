@@ -1,0 +1,10 @@
+Requirements:
+
+1. Install Anaconda's latest version for your OS, opting for default options in download.
+Link can be found at: "https://www.anaconda.com/distribution/"
+
+From the Anaconda prompt(Step 2- Step 4):
+2. Install pytorch with the command: "conda install pytorch torchvision cudatoolkit=9.0 -c pytorch"
+3. Install scikit-image with command: "conda install -c conda-forge scikit-image"
+4. Install tensorflow with command: "conda install tensorflow"
+
